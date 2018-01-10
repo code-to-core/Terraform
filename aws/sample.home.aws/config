@@ -1,0 +1,4 @@
+[default]
+# The Terraform scripts will default to executing against the region 
+#specified here
+region = us-east-1

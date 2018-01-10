@@ -1,0 +1,5 @@
+These files should be copied to your ~/.aws directory and edited with the 
+correct ssh and AWS access keys.
+
+Don't populate the files here as they may get committed into a public 
+repository.

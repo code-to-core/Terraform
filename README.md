@@ -1,2 +1,1 @@
-# Terraform
-Terraform scripts for setting up cloud infrastructure 
+Various Terraform scripts for helping to set up cloud infrastructure 

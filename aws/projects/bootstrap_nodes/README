@@ -1,0 +1,14 @@
+To avoid hard-coding credentials and regions into the Terraform files,
+the ~/.aws/credentials and ~/.aws/config files have been used.
+
+This example will provision a single instance and provision it with
+chef, by pointing to a managed chef server at manage.chef.io
+
+1. run 'terraform init'
+2. Create the terraform file (devops-eval.tf)
+
+3. run 'terraform apply' to make the AWS infrastructure changes
+4. To tear down all reasources and start again run 'terraform destory'
+
+
+
